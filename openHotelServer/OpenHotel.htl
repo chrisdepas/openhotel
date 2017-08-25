@@ -1,0 +1,4 @@
+<Hotel version="1" name="OpenHotel" motd="Welcome to OpenHotel" roomcount="1" >
+  <Room name="Lobby" type="1">
+  </Room>
+</Hotel>
